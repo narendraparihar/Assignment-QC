@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+}
+
+input, select, button {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 5px 0;
+}
